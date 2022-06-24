@@ -1,0 +1,12 @@
+D:\C#\app-architecture\ArchitectureLibrary\ArchitectureLibrary\bin\Debug\net6.0\ArchitectureLibrary.deps.json
+D:\C#\app-architecture\ArchitectureLibrary\ArchitectureLibrary\bin\Debug\net6.0\ArchitectureLibrary.dll
+D:\C#\app-architecture\ArchitectureLibrary\ArchitectureLibrary\bin\Debug\net6.0\ArchitectureLibrary.pdb
+D:\C#\app-architecture\ArchitectureLibrary\ArchitectureLibrary\obj\Debug\net6.0\ArchitectureLibrary.csproj.AssemblyReference.cache
+D:\C#\app-architecture\ArchitectureLibrary\ArchitectureLibrary\obj\Debug\net6.0\ArchitectureLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\app-architecture\ArchitectureLibrary\ArchitectureLibrary\obj\Debug\net6.0\ArchitectureLibrary.AssemblyInfoInputs.cache
+D:\C#\app-architecture\ArchitectureLibrary\ArchitectureLibrary\obj\Debug\net6.0\ArchitectureLibrary.AssemblyInfo.cs
+D:\C#\app-architecture\ArchitectureLibrary\ArchitectureLibrary\obj\Debug\net6.0\ArchitectureLibrary.csproj.CoreCompileInputs.cache
+D:\C#\app-architecture\ArchitectureLibrary\ArchitectureLibrary\obj\Debug\net6.0\ArchitectureLibrary.dll
+D:\C#\app-architecture\ArchitectureLibrary\ArchitectureLibrary\obj\Debug\net6.0\refint\ArchitectureLibrary.dll
+D:\C#\app-architecture\ArchitectureLibrary\ArchitectureLibrary\obj\Debug\net6.0\ArchitectureLibrary.pdb
+D:\C#\app-architecture\ArchitectureLibrary\ArchitectureLibrary\obj\Debug\net6.0\ref\ArchitectureLibrary.dll

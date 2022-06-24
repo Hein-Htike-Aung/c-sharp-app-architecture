@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ArchitectureLibrary": {
+      "commandName": "Project",
+      "workingDirectory": "D:\\C#\\app-architecture\\ArchitectureLibrary\\ArchitectureUI"
+    }
+  }
+}
